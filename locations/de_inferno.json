@@ -1,5 +1,329 @@
 {
 	"de_inferno": [
+  {
+    "name": ["Banana", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [416.48001098633, 1768.6999511719, 128.64999389648],
+    "viewangles": [-48.07, 65.35]
+  },
+  {
+    "name": ["Banana", "B Plant"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-79.449996948242, 1330.0100097656, 106.76999664307],
+    "viewangles": [-36.52, 66.62]
+  },
+  {
+    "name": ["Second Mid", "Minipit"],
+    "weapon": "weapon_smokegrenade",
+    "position": [941.90997314453, 415.63000488281, 88.529998779297],
+    "viewangles": [-51.03, 13.23]
+  },
+  {
+    "name": ["Second Mid", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [721.26000976563, 49.049999237061, 94.279998779297],
+    "viewangles": [-36.35, 55.47]
+  },
+  {
+    "name": ["Second Mid", " Long"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [941.97998046875, 415.86999511719, 88.529998779297],
+    "viewangles": [-47.68, 39.04]
+  },
+  {
+    "name": ["Fountain", "Construction"],
+    "description": "Retake",
+    "weapon": "weapon_smokegrenade",
+    "position": [1899.3438720703, 2616.9763183594, 251.51138305664],
+    "viewangles": [-37.61, 158.63]
+  },
+  {
+    "name": ["banana", "T Site"],
+    "weapon": "weapon_smokegrenade",
+    "position": [479.34790039063, 2017.9876708984, 128.4093170166],
+    "viewangles": [-8.9760236740112, -111.51611328125]
+  },
+  {
+    "name": ["Barrel", "Banana"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-857.99438476563, 437.79028320313, -30.801290512085],
+    "viewangles": [-53.295959472656, 50.734680175781],
+    "grenade": {
+      "run": 15,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Lower Mid", "Middle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-857.99401855469, 437.79000854492, -30.801000595093],
+    "viewangles": [-7.3162355422974, 2.4413061141968],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["B_PLANT", "B_PLANT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2290.2551269531, 2686.8784179688, 156.03125],
+    "viewangles": [-18.798160552979, 161.88720703125],
+    "grenade": {
+      "run": 25,
+      "fov": 5.12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "site"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2454.9880371094, -292.54806518555, 87.03125],
+    "viewangles": [-9.3820457458496, 112.80083465576],
+    "grenade": {
+      "run": 2,
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Unnamed", "Far Corner"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2454.9887695313, -292.55065917969, 87.03125],
+    "viewangles": [-17.852029800415, 120.60276794434],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Banana", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [110.84204864502, 1569.6142578125, 132.01371765137],
+    "viewangles": [-33.048336029053, 57.928150177002]
+  },
+  {
+    "name": ["Banana", "Front Site"],
+    "description": "1",
+    "weapon": "weapon_smokegrenade",
+    "position": [68.03125, 1313.3089599609, 97.318237304688],
+    "viewangles": [-38.626022338867, 75.015480041504]
+  },
+  {
+    "name": ["Banana", "Front Site"],
+    "description": "2",
+    "weapon": "weapon_smokegrenade",
+    "position": [338.87741088867, 1650.8259277344, 122.03125],
+    "viewangles": [-25.970762252808, 81.321784973145]
+  },
+  {
+    "name": ["Banana", "CT"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [339.97534179688, 2027.880859375, 128.03125],
+    "viewangles": [-36.856182098389, 41.519832611084]
+  },
+  {
+    "name": ["Balcony", "A Long"],
+    "weapon": "weapon_smokegrenade",
+    "position": [895.74829101563, -87.30086517334, 296.03125],
+    "viewangles": [-38.301475524902, 56.977924346924]
+  },
+  {
+    "name": ["Stairs", "A Long"],
+    "weapon": "weapon_smokegrenade",
+    "position": [722.09735107422, 50.053119659424, 94.420791625977],
+    "viewangles": [-47.172824859619, 37.245891571045]
+  },
+  {
+    "name": ["Top Mid", "Arch"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [960.95397949219, 434.0071105957, 88.03125],
+    "viewangles": [-52.054698944092, 43.020351409912]
+  },
+  {
+    "name": ["Top Mid", "Library"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1024.5994873047, 434.03125, 97.483551025391],
+    "viewangles": [-51.359451293945, 27.687440872192]
+  },
+  {
+    "name": ["Top Mid", "Moto"],
+    "weapon": "weapon_smokegrenade",
+    "position": [960.95617675781, 434.00762939453, 88.03125],
+    "viewangles": [-44.986907958984, 13.368216514587]
+  },
+  {
+    "name": ["Stairs", "Cemetery"],
+    "weapon": "weapon_smokegrenade",
+    "position": [721.0244140625, 48.980178833008, 94.188018798828],
+    "viewangles": [-53.03490447998, -2.5045833587646]
+  },
+  {
+    "name": ["Top Mid", "Cemetery"],
+    "weapon": "weapon_smokegrenade",
+    "position": [960.82299804688, 589.96875, 88.170379638672],
+    "viewangles": [-48.650375366211, -21.972440719604]
+  },
+  {
+    "name": ["T Spawn", "Top Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-857.99444580078, 437.79028320313, -30.801292419434],
+    "viewangles": [-44.19116973877, 3.3853025436401],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["T Spawn", "Top Mid"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [-857.99444580078, 437.79028320313, -30.805587768555],
+    "viewangles": [-42.174896240234, 3.3424026966095],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Top 2nd Mid", "Long"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [709.73596191406, -146.4255065918, 91.03125],
+    "viewangles": [-38.018310546875, 53.615345001221]
+  },
+  {
+    "name": ["Under", "Boiler"],
+    "weapon": "weapon_smokegrenade",
+    "position": [272.03125, 644.03125, 20.03125],
+    "viewangles": [-24.347623825073, -16.684911727905],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Stairs", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [736.03125, 126.13547515869, 100.21524047852],
+    "viewangles": [-30.58518409729, 53.731536865234]
+  },
+  {
+    "name": ["Stairs", "Short"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [736.03125, 125.96643829346, 100.21524047852],
+    "viewangles": [-37.474739074707, 54.014598846436],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Balcony", "Short"],
+    "description": "Oneway Pit",
+    "weapon": "weapon_smokegrenade",
+    "position": [2111.1340332031, -321.23226928711, 292.03125],
+    "viewangles": [-16.473932266235, 130.29670715332]
+  },
+  {
+    "name": ["Cemetery", "Short"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [2480.0095214844, -16.026258468628, 98.03125],
+    "viewangles": [-0.51203238964081, -132.20208740234],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": ["2nd", "Sand Bags"],
+    "weapon": "weapon_smokegrenade",
+    "position": [386.60427856445, 2537.650390625, 160.03125],
+    "viewangles": [-26.400405883789, -19.79580116272]
+  },
+  {
+    "name": ["Sand Bags", "Logs"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [610.98162841797, 1873.03125, 134.18980407715],
+    "viewangles": [11.143348693848, 165.49923706055],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": ["CT", "Banana"],
+    "description": "Middle",
+    "weapon": "weapon_smokegrenade",
+    "position": [1329.9217529297, 2977.21875, 144.28125],
+    "viewangles": [-30.276769638062, -129.94972229004]
+  },
+  {
+    "name": ["1st", "Banana"],
+    "weapon": "weapon_smokegrenade",
+    "position": [545.80462646484, 2573.8081054688, 286.03125],
+    "viewangles": [-15.641706466675, -136.04772949219]
+  },
+  {
+    "name": ["CT Start", "Bombsite A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2308.0388183594, 2160.4868164063, 128.03125],
+    "viewangles": [-38.67361831665, -104.24108886719]
+  },
+  {
+    "name": ["Unnamed", "site"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2631.2358398438, 1208.0816650391, 160.03125],
+    "viewangles": [-4.3329825401306, -97.796806335449],
+    "grenade": {
+      "run": 35,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["CT Spawn", "Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2535.0961914063, 2093.03125, 132.03125],
+    "viewangles": [-11.639916419983, -129.1729888916],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Crane", "Between Graveyard and Default [RETAKE]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1872.0153808594, 1917.96875, 160.03125],
+    "viewangles": [-41.228328704834, -76.408386230469]
+  },
+  {
+    "name": ["Crane", "Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1872.0279541016, 1917.9660644531, 160.03125],
+    "viewangles": [-40.1227684021, -111.59781646729]
+  },
+  {
+    "name": ["Boiler", "Stairs"],
+    "weapon": "weapon_flashbang",
+    "position": [1185.0107421875, 359.96875, 128.03125],
+    "viewangles": [-16.1500415802, -84.495826721191]
+  },
+  {
+    "name": ["Truck", "Short"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [2018.03125, -12.968749046326, 125.32856750488],
+    "viewangles": [4.6212363243103, 165.14097595215]
+  },
+  {
+    "name": ["Construction", " Banana"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [1263.3533935547, 2981.9018554688, 133.59124755859],
+    "viewangles": [-7.5885972976685, -125.32475280762],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
     {
       "name": ["Unnamed", "Mid"],
       "weapon": "weapon_molotov",

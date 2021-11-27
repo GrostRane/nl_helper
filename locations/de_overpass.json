@@ -1,5 +1,307 @@
 {
 	"de_overpass": [
+  {
+    "name": ["Upper Park", "Car"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-3288.6298828125, -358.96899414063, 536.09399414063],
+    "viewangles": [-21.6798, 61.4749]
+  },
+  {
+    "name": ["Upper Park", "Container"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-3288.6298828125, -358.96899414063, 536.09399414063],
+    "viewangles": [-17.8298, 59.7699]
+  },
+  {
+    "name": ["Alley", "Construction"],
+    "weapon": "weapon_flashbang",
+    "position": [-613.29187011719, -1473.6109619141, 192.28129577637],
+    "viewangles": [-26.741, 137.2132]
+  },
+  {
+    "name": ["Construction", "Heaven"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-856.03100585938, -638.96875, 96.03125],
+    "viewangles": [-23.715999603271, 125.05120849609],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["T Spawn", "Lower Park"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-16.031200408936, -2095.96875, 185.75450134277],
+    "viewangles": [-29.4867, 148.7265],
+    "grenade": {
+      "run": 15,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Connector", "Water"],
+    "description": "Popflash",
+    "weapon": "weapon_flashbang",
+    "position": [-1839.96875, -1071.9857177734, 96.03125],
+    "viewangles": [-46.584770202637, 179.67408752441],
+    "duck": true
+  },
+  {
+    "name": ["CT Spawn", "Tunnels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2445.8977050781, 260.75338745117, 492.03125],
+    "viewangles": [-2.96000623703, -74.78645324707],
+    "grenade": {
+      "run": 28,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Barrels", "Stairs FD"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-821.04388427734, 316.34521484375, 147.03125],
+    "viewangles": [-16.956415176392, 150.66722106934],
+    "grenade": {
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Site", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2333.978515625, 1022.9537353516, 532.88891601563],
+    "viewangles": [-12.635216712952, -22.148223876953]
+  },
+  {
+    "name": ["Barrels", "Gustello"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-787.53588867188, 394.05737304688, 96.03125],
+    "viewangles": [-10.361034393311, -148.36651611328],
+    "duck": true
+  },
+  {
+    "name": ["Water", "Gustello"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1221.11328125, 302.25869750977, 23.663887023926],
+    "viewangles": [-10.133659362793, -134.49487304688],
+    "duck": true
+  },
+  {
+    "name": ["Heaven", "Gustello"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1691.826171875, 528.63000488281, 256.03125],
+    "viewangles": [9.0314092636108, -95.94750213623],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Water", "Gustello"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1224.1873779297, 304.65029907227, 24.281532287598],
+    "viewangles": [-19.623626708984, -126.53594970703],
+    "duck": true
+  },
+  {
+    "name": ["Barrels", "Gustello"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-787.48413085938, 394.11901855469, 96.03125],
+    "viewangles": [-8.1388807296753, -152.8088684082],
+    "duck": true
+  },
+  {
+    "name": ["here", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2034.6203613281, 563.99108886719, 256.03125],
+    "viewangles": [1.8776208162308, -5.5668497085571]
+  },
+  {
+    "name": ["Unnamed", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1196.56640625, 256.01104736328, 22.655330657959],
+    "viewangles": [-2.6389579772949, 20.073949813843],
+    "grenade": {
+      "fov": 5.12
+    },
+    "duck": true
+  },
+  {
+    "name": ["Walkway", "Alley"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2004.4409179688, -48.347026824951, 135.76092529297],
+    "viewangles": [-16.832231521606, -44.879501342773],
+    "grenade": {
+      "delay": 1,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Tracks"],
+    "weapon": "weapon_flashbang",
+    "position": [-2022.9284667969, -48.03125, 139.69007873535],
+    "viewangles": [8.1819829940796, -25.182525634766],
+    "grenade": {
+      "run": 40,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A-site", "Water"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2869.7355957031, 955.94476318359, 475.03125],
+    "viewangles": [-4.4000144004822, -13.18983745575],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 90,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["FD", "Stairs FD"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1384.9456787109, -238.34687805176, 118.13859558105],
+    "viewangles": [-47.18000793457, 117.65064239502],
+    "grenade": {
+      "recovery_yaw": 89,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "Water"],
+    "description": "FAKEDUCK",
+    "weapon": "weapon_smokegrenade",
+    "position": [-3853.0014648438, -1881.5030517578, 497.5185546875],
+    "viewangles": [-9.0650062561035, 41.340999603271],
+    "grenade": {
+      "run": 48,
+      "recovery_yaw": 90,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-3721.3054199219, -1764.6086425781, 476.49890136719],
+    "viewangles": [-9.2300930023193, 37.490631103516],
+    "grenade": {
+      "run": 48,
+      "recovery_yaw": 90,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A-site", "Water"],
+    "description": "FAKEDUCK",
+    "weapon": "weapon_smokegrenade",
+    "position": [-2128.9528808594, 834.81658935547, 480.03125],
+    "viewangles": [-9.4500246047974, -16.438381195068]
+  },
+  {
+    "name": ["Barrels", "Stairs FD"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-858.32397460938, 440.94720458984, 96.03125],
+    "viewangles": [-51.745121002197, 154.14196777344],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 90,
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1856.9724121094, 722.48724365234, 480.03125],
+    "viewangles": [17.04249382019, -14.33259677887],
+    "grenade": {
+      "strength": 0,
+      "recovery_yaw": 90,
+      "run": 12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Water"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2096.4321289063, 1191.0389404297, 403.22473144531],
+    "viewangles": [12.54004573822, -29.612989425659],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2096.4233398438, 1191.0539550781, 403.22399902344],
+    "viewangles": [6.521014213562, -30.240016937256],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "run": 8,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Water"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-798.61700439453, 421.99282836914, 96.03125],
+    "viewangles": [12.423481941223, -143.89855957031],
+    "duck": true
+  },
+  {
+    "name": ["Heaven", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2069.8774414063, 501.47421264648, 256.03125],
+    "viewangles": [0.35214883089066, -2.7353057861328],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "Underwater"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2229.990234375, 867.24151611328, 256.03125],
+    "viewangles": [-1.1430206298828, -38.651351928711]
+  },
+  {
+    "name": ["Unnamed", "Water"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2229.9799804688, 867.234375, 256.03125],
+    "viewangles": [-1.4510204792023, -32.865352630615]
+  },
+  {
+    "name": ["Unnamed", "Underwater"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2178.4692382813, 961.69268798828, 256.03125],
+    "viewangles": [2.6629776954651, -48.983493804932]
+  },
+  {
+    "name": ["Unnamed", "water"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2178.42578125, 961.60797119141, 256.03125],
+    "viewangles": [-3.959020614624, -49.401485443115],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["bu yan", "Underwater"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2131.8034667969, 358.35433959961, 128.03125],
+    "viewangles": [-3.9122650623322, -48.113571166992],
+    "grenade": {
+      "run": 20
+    }
+  },
     {
       "name": ["Unnamed", "Gustello"],
       "weapon": "weapon_molotov",
