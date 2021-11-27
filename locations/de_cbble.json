@@ -1,5 +1,136 @@
 {
 	"de_cbble": [
+  {
+    "name": ["Alley", "Balcony"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-3375.634765625, -307.61138916016, 0.031300000846386],
+    "viewangles": [-25.066, -40.299],
+    "grenade": {
+      "run": 40
+    }
+  },
+  {
+    "name": ["here", "Drop 1w"],
+    "weapon": "weapon_smokegrenade",
+    "position": [196.73908996582, -1022.1897583008, -50.640090942383],
+    "viewangles": [11.53539276123, 139.56274414063]
+  },
+  {
+    "name": ["Chicken", "Drop"],
+    "weapon": "weapon_smokegrenade",
+    "position": [669.47564697266, -1390.96875, -79.96875],
+    "viewangles": [0.22334265708923, 141.12284851074],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Chicken", "Drop Exit"],
+    "weapon": "weapon_smokegrenade",
+    "position": [669.46856689453, -1390.9968261719, -79.96875],
+    "viewangles": [3.855320930481, 141.05111694336],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "Long Exit"],
+    "weapon": "weapon_smokegrenade",
+    "position": [751.96875, -512.71014404297, -66.370361328125],
+    "viewangles": [-4.8962388038635, 137.02478027344]
+  },
+  {
+    "name": ["Chicken", " Long"],
+    "description": "Deep",
+    "weapon": "weapon_smokegrenade",
+    "position": [669.47570800781, -1390.96875, -79.96875],
+    "viewangles": [-5.139328956604, 129.91416931152],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Chicken", "Drop Stairs Entrance"],
+    "weapon": "weapon_smokegrenade",
+    "position": [357.66278076172, -1408.9412841797, -79.96875],
+    "viewangles": [-26.597442626953, 130.11596679688],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Chicken", "Drop Entrance"],
+    "weapon": "weapon_smokegrenade",
+    "position": [357.50650024414, -1408.9870605469, -79.96875],
+    "viewangles": [-27.491771697998, 126.70883178711],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Drop Exit", "Long"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-373.75463867188, -678.77685546875, -63.96875],
+    "viewangles": [-3.4539461135864, 29.600479125977],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Stairs", "Wood box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [746.97137451172, -266.99005126953, 0.03125],
+    "viewangles": [-5.4932298660278, -179.11309814453],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Fountain", "Long"],
+    "weapon": "weapon_flashbang",
+    "position": [206.65980529785, -1011.3087158203, -49.426620483398],
+    "viewangles": [-14.2496509552, -116.41899871826],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Fountain", "Long"],
+    "weapon": "weapon_flashbang",
+    "position": [233.50917053223, -1052.9139404297, -51.640098571777],
+    "viewangles": [-17.490726470947, 60.637557983398],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Drop", "Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-865.96875, -176.51139831543, 128.03125],
+    "viewangles": [-1.5091898441315, -58.694705963135]
+  },
+  {
+    "name": ["Unnamed", "Fountain"],
+    "description": "TEAMHELP",
+    "weapon": "weapon_smokegrenade",
+    "position": [-399.5959777832, -496.02743530273, -31.968751907349],
+    "viewangles": [1.6279904842377, -39.888050079346]
+  },
+  {
+    "name": ["Unnamed", "Stairs"],
+    "description": "TeamHelp",
+    "weapon": "weapon_smokegrenade",
+    "position": [196.76382446289, -1022.1949462891, -51.640090942383],
+    "viewangles": [-2.0020079612732, 136.77185058594]
+  },
     {
       "name": ["Alley", "Balcony"],
       "weapon": "weapon_molotov",
