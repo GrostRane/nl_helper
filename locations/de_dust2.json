@@ -1,5 +1,181 @@
 {
 	"de_dust2": [
+  {
+    "name": ["T Spawn", "Xbox"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-300, -1163.9699707031, 77.709999084473],
+    "viewangles": [-16.42, 90.01],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "CT Spawn"],
+    "weapon": "weapon_smokegrenade",
+    "position": [707.96875, -395.96875, 8.03125],
+    "viewangles": [-12.397911071777, 123.75317382813],
+    "grenade": {
+      "run": 78,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Cat", "B Door"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-149.03147888184, 1099.9177246094, 0.081096574664116],
+    "viewangles": [-14.334188461304, 112.60673522949],
+    "grenade": {
+      "run": 34,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "Cross"],
+    "weapon": "weapon_smokegrenade",
+    "position": [860.03125, 790.03125, 4.3142318725586],
+    "viewangles": [3.3784260749817, 43.955383300781],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "Car"],
+    "weapon": "weapon_smokegrenade",
+    "position": [795.96875, 808.03125, 0.03125],
+    "viewangles": [-30.501359939575, 46.672500610352]
+  },
+  {
+    "name": ["Car", "Car"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [1752.0500488281, 2046.9329833984, 0.30700001120567],
+    "viewangles": [-2.7179880142212, -95.847946166992],
+    "duck": true
+  },
+  {
+    "name": ["Lower", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1199.96875, 1343.03125, -106.13097381592],
+    "viewangles": [-8.3488998413086, 8.9903182983398]
+  },
+  {
+    "name": ["Short", "A Site"],
+    "weapon": "weapon_smokegrenade",
+    "position": [189.97200012207, 1334.0159912109, 1.0839999914169],
+    "viewangles": [-72.357528686523, 60.707183837891],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Under A", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [769.61389160156, 2379.96875, -34.648593902588],
+    "viewangles": [-67.936965942383, -115.65229034424]
+  },
+  {
+    "name": ["Outside Long Car", "CT Spawn Boost"],
+    "weapon": "weapon_smokegrenade",
+    "position": [619.35900878906, -123.72602081299, -2.1996803283691],
+    "viewangles": [-13.830173492432, 124.12182617188],
+    "grenade": {
+      "run": 80,
+      "run_speed": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "B Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-149.03125, 1226.1810302734, -0.021890699863434],
+    "viewangles": [-16.473484039307, 118.67597961426],
+    "grenade": {
+      "run": 58,
+      "run_speed": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Upper Tunnels", "B Doors"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2164.7766113281, 1044.3244628906, 40.137405395508],
+    "viewangles": [-47.119594573975, 55.211811065674]
+  },
+  {
+    "name": ["Upper Tunnels", "B Side"],
+    "weapon": "weapon_flashbang",
+    "position": [-2168.96875, 1042.0676269531, 40.190170288086],
+    "viewangles": [-21.111703872681, 63.980659484863],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "Short"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [489.96875, 1446.03125, 0.55315160751343],
+    "viewangles": [-26.145111083984, 123.93748474121]
+  },
+  {
+    "name": ["A Side", "Short"],
+    "description": "Hold Ctrl",
+    "weapon": "weapon_flashbang",
+    "position": [1147.6854248047, 2519.3842773438, 94.935348510742],
+    "viewangles": [54.903228759766, -179.3271484375],
+    "grenade": {
+      "run": 5,
+      "run_yaw": 180
+    },
+    "duck": true
+  },
+  {
+    "name": ["Short", "Long doors"],
+    "weapon": "weapon_smokegrenade",
+    "position": [361.30111694336, 2324.318359375, 95.972457885742],
+    "viewangles": [-27.900995254517, -78.369361877441],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Green", "Cross"],
+    "description": "Useful for fake push",
+    "weapon": "weapon_smokegrenade",
+    "position": [-637.97662353516, 212.03125, 8.4083137512207],
+    "viewangles": [-14.545640945435, 34.319877624512],
+    "grenade": {
+      "run": 35,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Mid", "Tunnels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-621.77154541016, 2494.2487792969, -82.998886108398],
+    "viewangles": [-6.4430384635925, -152.38034057617],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "Xbox"],
+    "weapon": "weapon_smokegrenade",
+    "position": [795.96875, 808.03125, 0.03125],
+    "viewangles": [-10.857569694519, 159.95219421387],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
     {
       "name": ["Long", "Short"],
       "weapon": "weapon_molotov",
