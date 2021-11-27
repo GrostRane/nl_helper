@@ -1,0 +1,52 @@
+{
+	"cs_office": [
+		{
+			"name": ["Unnamed", "CT Spawn"],
+			"weapon": "weapon_wallbang",
+			"position": [-783.08679199219, -307.7760925293, -141.61004638672],
+			"viewangles": [16.44255065918, -115.49071502686],
+		},
+		{
+			"name": ["Unnamed", "Office [AWP]"],
+			"weapon": "weapon_wallbang",
+			"position": [-960.05749511719, 91.685813903809, -175.96875],
+			"viewangles": [0.49253171682358, -0.71125257015228],
+		},
+		{
+			"name": ["Unnamed", "Office [AWP]"],
+			"weapon": "weapon_wallbang",
+			"position": [-968.77581787109, -295.50299072266, -175.96875],
+			"viewangles": [0.14208801090717, 20.940383911133],
+		},
+		{
+			"name": ["Unnamed", "Way"],
+			"weapon": "weapon_wallbang",
+			"position": [673.69586181641, -299.19525146484, -159.96875],
+			"viewangles": [1.5856605768204, -58.538433074951],
+		},
+		{
+			"name": ["Unnamed", "Way"],
+			"weapon": "weapon_wallbang",
+			"position": [807.44940185547, -573.98425292969, -159.96875],
+			"viewangles": [2.4371824264526, -51.230541229248],
+		},
+		{
+			"name": ["Unnamed", "Pixel Walk"],
+			"weapon": "weapon_wallbang",
+			"position": [624.01989746094, -399.75390625, -107.96875],
+			"viewangles": [6.2795314788818, -178.9656829834],
+		},
+		{
+			"name": ["Unnamed", "Side Hall"],
+			"weapon": "weapon_wallbang",
+			"position": [1686.4669189453, 623.17102050781, -141.96875],
+			"viewangles": [0.070699572563171, 146.30087280273],
+		},
+		{
+			"name": ["Unnamed", "RIP ESP"],
+			"weapon": "weapon_wallbang",
+			"position": [1573.5715332031, 199.97384643555, -159.96875],
+			"viewangles": [1.2057074308395, 109.31623840332],
+		},
+	],
+}

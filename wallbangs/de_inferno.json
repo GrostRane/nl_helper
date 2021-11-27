@@ -1,0 +1,59 @@
+{
+	"de_inferno": [
+		{
+			"name": ["Unnamed", "AWP"],
+			"weapon": "weapon_wallbang",
+			"position": [1185.0231933594, 258.34729003906, 145.12867736816],
+			"viewangles": [11.527247428894, 111.32893371582],
+		},
+		{
+			"name": ["Unnamed", "AWP"],
+			"weapon": "weapon_wallbang",
+			"position": [1130.0206298828, 434.01196289062, 108.29708862305],
+			"viewangles": [-7.72758436203, -71.05712890625],
+		},
+		{
+			"name": ["Unnamed", "AWP"],
+			"weapon": "weapon_wallbang",
+			"position": [1023.8362426758, 533.84240722656, 96.847442626953],
+			"viewangles": [-5.6184048652649, -55.698970794678],
+		},
+		{
+			"name": ["Unnamed", "Palace"],
+			"weapon": "weapon_wallbang",
+			"position": [-337.55838012695, -15.740726470947, 192.03125],
+			"viewangles": [-1.5158298015594, -10.4534740448],
+		},
+		{
+			"name": ["Unnamed", "Palace"],
+			"weapon": "weapon_wallbang",
+			"position": [-324.08474731445, -178.37014770508, 192.03125],
+			"viewangles": [-1.6205197572708, -3.4053847789764],
+		},
+		{
+			"name": ["Unnamed", "Palace"],
+			"weapon": "weapon_wallbang",
+			"position": [259.73504638672, 64.400321960449, 220.03125],
+			"viewangles": [-1.3213052749634, -22.413999557495],
+		},
+		{
+			"name": ["Unnamed", "AWP ONEWAY"],
+			"description": "20hp",
+			"weapon": "weapon_wallbang",
+			"position": [2480.0021972656, 1190.8385009766, 160.03125],
+			"viewangles": [-0.094268545508385, -174.3546295166],
+		},
+		{
+			"name": ["Unnamed", "RIP ESP"],
+			"weapon": "weapon_wallbang",
+			"position": [2600.373046875, 1266.4185791016, 160.03125],
+			"viewangles": [-0.43742370605469, -167.39544677734],
+		},
+		{
+			"name": ["Unnamed", "Coffins"],
+			"weapon": "weapon_wallbang",
+			"position": [446.93359375, 3468.8461914062, 160.03125],
+			"viewangles": [1.8033046722412, -77.111709594727],
+		},
+	],
+}

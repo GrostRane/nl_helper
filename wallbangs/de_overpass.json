@@ -1,0 +1,34 @@
+{
+	"de_overpass": [
+		{
+			"name": ["Unnamed", "Gustello"],
+			"weapon": "weapon_wallbang",
+			"position": [-1031.1984863281, -2099.193359375, 336.03125],
+			"viewangles": [6.5248975753784, 110.89744567871],
+		},
+		{
+			"name": ["Unnamed", "Heaven"],
+			"weapon": "weapon_wallbang",
+			"position": [-416.02954101562, -2428.9694824219, 184.00106811523],
+			"viewangles": [-1.3978214263916, 111.82424926758],
+		},
+		{
+			"name": ["Unnamed", "Heaven"],
+			"weapon": "weapon_wallbang",
+			"position": [-1230.0875244141, -2155.1062011719, 336.03125],
+			"viewangles": [1.5081965923309, 98.20768737793],
+		},
+		{
+			"name": ["Unnamed", "Barrels"],
+			"weapon": "weapon_wallbang",
+			"position": [-1173.4622802734, -2088.1125488281, 336.03125],
+			"viewangles": [5.2482566833496, 80.897331237793],
+		},
+		{
+			"name": ["Unnamed", "Scaffold"],
+			"weapon": "weapon_wallbang",
+			"position": [-1119.7666015625, -2207.5668945312, 336.03125],
+			"viewangles": [4.6113667488098, 92.602516174316],
+		},
+	],
+}
